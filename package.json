@@ -2,9 +2,12 @@
   "name": "cn.etetet.memorypack",
   "displayName": "ET.MemoryPack",
   "unity": "2022.3",
-  "author": { "name": "Cysharp, Inc.", "url": "https://cysharp.co.jp/en/" },
+  "author": {
+    "name": "tanghai",
+    "url": "https://github.com/egametang/ET"
+  },
   "version": "1.10.0",
-  "description": "Zero encoding extreme performance binary serializer for C#.",
+  "description": "Copy From https://github.com/Cysharp/MemoryPack",
   "keywords": [ "Serialization" ],
   "license": "MIT",
   "publishConfig": {
