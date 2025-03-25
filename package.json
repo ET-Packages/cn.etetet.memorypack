@@ -6,7 +6,7 @@
     "name": "tanghai",
     "url": "https://github.com/egametang/ET"
   },
-  "version": "1.10.0",
+  "version": "1.10.1",
   "description": "Copy From https://github.com/Cysharp/MemoryPack",
   "keywords": [ "Serialization" ],
   "license": "MIT",
